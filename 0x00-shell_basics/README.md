@@ -3,4 +3,5 @@
 2-bring_me_home changes the working directory to the user's home directory
 3-listfiles lists the contents in a long format
 4-listmorefiles list the content in a long format including the hidden filesi
-5-listfilesdigitonly listin all files including hidden files in a long numerical format 
+5-listfilesdigitonly listin all files including hidden files in a long numerical format
+6-firstdirectory creates the directory my_first_directory in /tmp/ 
