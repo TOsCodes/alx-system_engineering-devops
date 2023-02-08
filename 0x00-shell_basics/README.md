@@ -12,3 +12,4 @@
 11-lists is to list all hidden file in a long list from current directory to /boot
 12-file_type prints the type of file iamafile is
 13-symbolic_link is to create a link name __ls__ to /bin/ls from the current working directory
+14-copy_html copies all .html files from current directory to parent directory excluding the newest
