@@ -9,3 +9,4 @@
 8-firstdelete is to delete file betty from /tmp/my_first_directory
 9-firstdirdeletion is to delete my_first_directory
 10-back is to change back to the previous directory
+11-lists is to list all hidden file in a long list from current directory to /boot
