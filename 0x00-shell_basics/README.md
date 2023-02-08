@@ -11,3 +11,4 @@
 10-back is to change back to the previous directory
 11-lists is to list all hidden file in a long list from current directory to /boot
 12-file_type prints the type of file iamafile is
+13-symbolic_link is to create a link name __ls__ to /bin/ls from the current working directory
