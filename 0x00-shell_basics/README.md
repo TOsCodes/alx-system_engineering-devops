@@ -4,4 +4,5 @@
 3-listfiles lists the contents in a long format
 4-listmorefiles list the content in a long format including the hidden filesi
 5-listfilesdigitonly listin all files including hidden files in a long numerical format
-6-firstdirectory creates the directory my_first_directory in /tmp/ 
+6-firstdirectory creates the directory my_first_directory in /tmp/
+7-movethatfile moves file betty to /tmp/my_first_directory 
