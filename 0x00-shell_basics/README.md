@@ -16,3 +16,4 @@
 100-lets_move to move files ith lower case to /tmp/u
 101-clean_emacs to delete emacs 
 102-tree to create folders in a folder
+103-commas to list a serious of commas
