@@ -8,3 +8,4 @@
 7-everybody gives execute permissions to the user, group and other user
 8-James_Bond no permission touser and group but all permissions to other users
 9-John_Doe sets themode of file hello to rwxr-x-wx
+10-mirror_permissions mirrors permissiion of olleh to hello
