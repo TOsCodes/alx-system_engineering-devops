@@ -2,3 +2,4 @@
 1-who_am_i prints the effective username of the current user
 2-groups prints all groups of the current owner
 3-new_owner changes owner of the file hello to betty
+4-empty creates an empty file named hello
