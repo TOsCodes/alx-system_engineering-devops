@@ -14,4 +14,5 @@
 13-symbolic_link is to create a link name __ls__ to /bin/ls from the current working directory
 14-copy_html copies all .html files from current directory to parent directory excluding the newest
 100-lets_move to move files ith lower case to /tmp/u
-101-clean_emacs to delete emacs
+101-clean_emacs to delete emacs 
+102-tree to create folders in a folder
