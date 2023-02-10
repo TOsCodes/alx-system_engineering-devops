@@ -10,3 +10,4 @@
 9-John_Doe sets themode of file hello to rwxr-x-wx
 10-mirror_permissions mirrors permissiion of olleh to hello
 11-directories_permissions add execute permissions to all user for all sub directories
+12-directory_permissions makes my_dir directory with the mode 751
