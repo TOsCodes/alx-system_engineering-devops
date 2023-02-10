@@ -13,3 +13,4 @@
 12-directory_permissions makes my_dir directory with the mode 751
 13-change_group changes group ownership for file hello to school
 100-change_owner_and_group changes owner and group permissions
+101-symbolic_link_permissions changes ownership for a symbolic link
