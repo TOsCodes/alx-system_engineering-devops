@@ -2,3 +2,4 @@
 1-confused_smiley prints confused smiley
 2-hellofile dispalays the content of the /etc/passwd file
 3-twofiles displays the content of the /etc/passwd and /etc/hosts
+4-lastlines displays the last 10 lines of the file /etc/passwd
